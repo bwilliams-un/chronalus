@@ -1,0 +1,17 @@
+{
+  "name": "lifecycle",
+  "version": "0.1.0",
+  "description": "Application lifecycle tool",
+  "main": "index.js",
+  "author": "Brett D. Williams",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-jest": "^21.15.1",
+    "jest": "^22.4.3"
+  }
+}
