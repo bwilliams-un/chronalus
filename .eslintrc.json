@@ -7,6 +7,9 @@
     "extends": "eslint:recommended",
     "plugins": ["jest"],
     "rules": {
+        "no-console": [
+            "off"
+        ],
         "indent": [
             "error",
             4
